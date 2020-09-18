@@ -1,0 +1,21 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/Cpu/CPU_temp/CPU_temp.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/ctrl.v,1562374150,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/data_ram.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,ctrl,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/data_ram.v,1562385279,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/ex.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,data_ram,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,1562339887,verilog,,,,,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/ex.v,1562384303,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/ex_mem.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,ex,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/ex_mem.v,1562373989,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/id.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,ex_mem,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/id.v,1562383439,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/id_ex.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,id,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/id_ex.v,1562381627,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/if_id.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,id_ex,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/if_id.v,1562379018,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/inst_rom.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,if_id,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/inst_rom.v,1562402927,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/mem.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,inst_rom,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/mem.v,1562384961,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/mem_wb.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,mem,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/mem_wb.v,1562385281,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/openmips.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,mem_wb,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/openmips.v,1562385601,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/openmips_min_sopc.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,openmips,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/openmips_min_sopc.v,1562366230,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/pc_reg.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,openmips_min_sopc,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/openmips_min_sopc_tb.v,1562382092,verilog,,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,openmips_min_sopc_tb,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/pc_reg.v,1562377848,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/regfile.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,pc_reg,,,,,,,,
+D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/regfile.v,1562383394,verilog,,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/openmips_min_sopc_tb.v,D:/Cpu/CPU_temp/CPU_temp.srcs/sources_1/new/defines.v,regfile,,,,,,,,

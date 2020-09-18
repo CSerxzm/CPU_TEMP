@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CPU_temp.srcs/sources_1/new/ctrl.v" \
+"../../../../CPU_temp.srcs/sources_1/new/data_ram.v" \
+"../../../../CPU_temp.srcs/sources_1/new/ex.v" \
+"../../../../CPU_temp.srcs/sources_1/new/ex_mem.v" \
+"../../../../CPU_temp.srcs/sources_1/new/id.v" \
+"../../../../CPU_temp.srcs/sources_1/new/id_ex.v" \
+"../../../../CPU_temp.srcs/sources_1/new/if_id.v" \
+"../../../../CPU_temp.srcs/sources_1/new/inst_rom.v" \
+"../../../../CPU_temp.srcs/sources_1/new/mem.v" \
+"../../../../CPU_temp.srcs/sources_1/new/mem_wb.v" \
+"../../../../CPU_temp.srcs/sources_1/new/openmips.v" \
+"../../../../CPU_temp.srcs/sources_1/new/openmips_min_sopc.v" \
+"../../../../CPU_temp.srcs/sources_1/new/pc_reg.v" \
+"../../../../CPU_temp.srcs/sources_1/new/regfile.v" \
+"../../../../CPU_temp.srcs/sources_1/new/openmips_min_sopc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
