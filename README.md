@@ -58,5 +58,5 @@ if rs != rt then branch，其中branch=(signed_extend)(offset||“00”)+(pc+4),
 从内存中指定的加载地址处，读取一个字，保存到地址为rt的通用寄存器中。  
 ## 整体实现
 在设计中，设计采用五段流水线，分别为取值阶段、译码阶段、执行阶段、访存阶段和回写阶段，如图。
-![alt CPU的流水](./PIC/CPU_TEMP.png) 
+![alt 21条指令的数据流图](./pic/CPU_TEMP.png) 
 
