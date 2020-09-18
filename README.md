@@ -60,3 +60,12 @@ if rs != rt then branch，其中branch=(signed_extend)(offset||“00”)+(pc+4),
 在设计中，设计采用五段流水线，分别为取值阶段、译码阶段、执行阶段、访存阶段和回写阶段，如图。
 ![alt 21条指令的数据流图](./pic/CPU_TEMP.png) 
 
+## 详细实现见文件夹代码
+
+## 测试结果
+![alt 测试结果图1](./pic/test1.png) 
+![alt 测试结果图2](./pic/test2.png) 
+![alt 测试结果图3](./pic/test3.png) 
+![alt 测试结果图4](./pic/test4.png) 
+
+
